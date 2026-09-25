@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: pink;
+}
+
+a {
+    display: block;
+    margin: 10px;
+    font-size: 15px;
+}

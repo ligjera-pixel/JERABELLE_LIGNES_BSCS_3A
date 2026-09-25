@@ -1,0 +1,61 @@
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+    padding: 25px 30px;
+    background-color: white;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 50px;
+    margin: 0 0 35px 0;
+    color: black;
+}
+
+
+h2 {
+    font-size: 48px;
+    margin: 0 0 50px 0;
+    color: black;
+}
+
+
+ol {
+    margin: 0 auto;
+    padding-left: 0;
+    width: 90%;
+    text-align: left;
+    font-size: 36px;
+}
+
+
+.element {
+    color: red;
+}
+
+
+.class-selector {
+    color: black;
+}
+
+
+.id-selector {
+    color: green;
+}
+
+
+.attribute-selector {
+    color: blue;
+}
+
+
+.universal-selector {
+    color: black;
+}
